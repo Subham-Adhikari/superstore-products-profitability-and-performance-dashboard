@@ -29,7 +29,7 @@ Using **Power BI**, the analysis applies **custom date modeling, time intelligen
 ## 🔍 Key Findings
 
 ### 💡 Segment Contribution
-> **Consumer segment contributes 62% of total sales ($1.17M)**
+> **Consumer segment contributes 50.21% of total sales ($1.17M)**
 
 This highlights strong dependence on consumer customers, making them the primary revenue driver for the business.
 
