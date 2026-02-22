@@ -9,6 +9,10 @@ This project analyzes Superstore sales data spanning 2020-2023 to evaluate produ
 
 ---
 
+https://github.com/user-attachments/assets/94e9bbbd-6c80-4d43-b760-b16b3b3b8777
+
+---
+
 ## 📈 Key Metrics
 | Metric | Value |
 |--------|-------|
@@ -99,3 +103,9 @@ For questions or collaboration opportunities, feel free to reach out!
 ---
 
 ⭐ **If you found this project useful, please consider giving it a star!**
+
+
+
+
+
+
