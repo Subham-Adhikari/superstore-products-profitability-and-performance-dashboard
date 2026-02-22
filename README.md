@@ -24,25 +24,25 @@ Using Power BI, the analysis applies custom date modeling, time intelligence DAX
 ---
 
 ## 🔍 Key Findings
-### 💡 Segment Contribution
+### Segment Contribution
 > **Consumer segment contributes 50.21% of total sales ($1.17M)**
 This highlights strong dependence on consumer customers, making them the primary revenue driver for the business.
 
 ---
 
-### 📦 Product Profitability Contrast
+### Product Profitability Contrast
 > **Copiers generate $56K profit**, while **Tables incur an $18K loss**
 Indicates uneven profitability across product categories and a clear opportunity for **portfolio optimization**.
 
 ---
 
-### 📈 Sustained Business Growth
+### Sustained Business Growth
 > **47% YoY sales growth and 48% YoY profit growth in the most recent years**
 Time intelligence analysis confirms strong upward business momentum over the analyzed period.
 
 ---
 
-### 🔄 Returns Performance
+### Returns Performance
 > **5.79% overall return rate with 2.95% most recent YoY improvement**
 Reflects improving product quality, customer satisfaction, or operational processes.
 
