@@ -43,7 +43,7 @@ Indicates uneven profitability across product categories and a clear opportunity
 ---
 
 ### 📈 Sustained Business Growth
-> **47% YoY sales growth and 48% YoY profit growth**
+> **47% YoY sales growth and 48% YoY profit growth in the most recent years**
 
 Time intelligence analysis confirms strong upward business momentum over the analyzed period.
 
