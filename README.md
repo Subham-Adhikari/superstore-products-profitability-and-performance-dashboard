@@ -82,7 +82,9 @@ Based on the analysis, the following strategic actions are recommended:
 ---
 
 ## 📊 Data Model
+
 ### Tables Used:
+
 **`Orders`** – Order-level transactional data  
 - `Row ID`  
 - `Order ID`  
@@ -94,6 +96,7 @@ Based on the analysis, the following strategic actions are recommended:
 - `Product ID`  
 - `Category`, `Sub-Category`, `Product Name`  
 - `Sales`, `Quantity`, `Discount`, `Profit`
+
 **`Returns`** – Order return details  
 - `Returned`  
 - `Order ID`
