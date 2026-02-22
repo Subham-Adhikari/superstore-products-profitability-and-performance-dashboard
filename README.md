@@ -1,4 +1,4 @@
-# 📊 Products Sales & Profitability Analysis
+# 📊 Products Sales & Profitability Dashboard
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 ![DAX](https://img.shields.io/badge/Language-DAX-blue)
 ![Analysis](https://img.shields.io/badge/Type-Business%20Analytics-orange)
