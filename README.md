@@ -50,7 +50,7 @@ Time intelligence analysis confirms strong upward business momentum over the ana
 ---
 
 ### 🔄 Returns Performance
-> **5.79% overall return rate with 2.95% YoY improvement**
+> **5.79% overall return rate with 2.95% most recent YoY improvement**
 
 Reflects improving product quality, customer satisfaction, or operational processes.
 
@@ -64,13 +64,13 @@ Based on the analysis, the following strategic actions are recommended:
    Re-evaluate loss-making categories like Tables and strengthen investment in high-margin products such as Copiers
 
 2. **Segment-Focused Strategy**  
-   Develop retention and upselling strategies for the Consumer segment driving 62% of revenue
+   Develop retention and upselling strategies for the Consumer segment driving 50.21% of revenue
 
 3. **Return Reduction Initiatives**  
    Analyze sub-categories and regions with higher return rates to further improve the 5.79% return metric
 
 4. **Growth Monitoring with Time Intelligence**  
-   Continue YoY tracking using time-based KPIs to sustain 47%+ sales growth momentum
+   Continue YoY tracking using time-based KPIs to sustain 47%+ sales growth momentum in the recent years
 
 ---
 
@@ -104,22 +104,21 @@ Based on the analysis, the following strategic actions are recommended:
 
 ### Tables Used:
 
-**`Fact_Sales`** – Transaction-level data  
-- `order_number`, `order_date`, `shipping_date`, `due_date`  
-- `sales_amount`, `quantity`, `price`  
-- `customer_key`, `product_key`
+**`Orders`** – Order-level transactional data  
+- `Row ID`  
+- `Order ID`  
+- `Order Date`, `Ship Date`  
+- `Ship Mode`  
+- `Customer ID`, `Customer Name`  
+- `Segment`  
+- `Country/Region`, `City`, `State/Province`, `Postal Code`, `Region`  
+- `Product ID`  
+- `Category`, `Sub-Category`, `Product Name`  
+- `Sales`, `Quantity`, `Discount`, `Profit`
 
-**`Dim_Customers`** – Customer attributes  
-- `customer_id`, `customer_number`  
-- `segment`, `region`, `country`  
-
-**`Dim_Products`** – Product hierarchy  
-- `product_name`, `category`, `subcategory`  
-- `cost`, `maintenance`
-
-**`Dim_Date`** – Custom calendar table  
-- Date attributes for year, quarter, month  
-- Supports time intelligence calculations
+**`Returns`** – Order return details  
+- `Returned`  
+- `Order ID`
 
 ---
 
